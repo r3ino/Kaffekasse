@@ -1,5 +1,5 @@
 import datetime
-pensi
+
 class Kasse:
     def __init__(self):
         self.saldo_in_cent = 0
