@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="49bbb883-4ee7-45a5-9e14-3e3cfa52f93e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Kaffekasse.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kaffeekasse.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Kaffekasse.jpeg" afterDir="false" />
+    <list default="true" id="49bbb883-4ee7-45a5-9e14-3e3cfa52f93e" name="Changes" comment="Add initial project setup with core files and configurations&#10;&#10;Initialize the Kaffekasse project with essential files, including the Kasse class and its attributes. Include IDE-specific configuration files for project structure, version control, and Python setup. Add a placeholder image file (Kaffekasse.jpeg) for future use.">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kaffeekasse.py" beforeDir="false" afterPath="$PROJECT_DIR$/Kaffeekasse.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -29,12 +35,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/reino/PycharmProjects/PythonProject/Kaffekasse"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\reino\PycharmProjects\PythonProject\Kaffekasse" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -51,6 +65,19 @@
       <option name="presentableId" value="Default" />
       <updated>1739993325234</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add initial project setup with core files and configurations&#10;&#10;Initialize the Kaffekasse project with essential files, including the Kasse class and its attributes. Include IDE-specific configuration files for project structure, version control, and Python setup. Add a placeholder image file (Kaffekasse.jpeg) for future use.">
+      <option name="closed" value="true" />
+      <created>1739993847918</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739993847918</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add initial project setup with core files and configurations&#10;&#10;Initialize the Kaffekasse project with essential files, including the Kasse class and its attributes. Include IDE-specific configuration files for project structure, version control, and Python setup. Add a placeholder image file (Kaffekasse.jpeg) for future use." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add initial project setup with core files and configurations&#10;&#10;Initialize the Kaffekasse project with essential files, including the Kasse class and its attributes. Include IDE-specific configuration files for project structure, version control, and Python setup. Add a placeholder image file (Kaffekasse.jpeg) for future use." />
   </component>
 </project>
